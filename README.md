@@ -36,6 +36,7 @@ It gives one possible counter-argument using as information the claim, the falla
 | roberta-base¹ | 0.605         | 0.606               | 0.605            | 0.604            | -              |
 | distilroberta-base¹ | 0.664  | 0.665               | 0.664            | 0.665            | -              |
 | xlm-roberta-base¹| 0.605      | 0.606               | 0.605            | 0.604            | -              |
+|-----------------------|---------|--------|---------|----------|--------|
 | Glove² | 0.056             | 0.153               | 0.082            | 0.107            | -              |
 | ELMo² | 0.600             | 0.719               | 0.783            | 0.750            | -              |
 | Flair² | 0.517             | 0.664               | 0.701            | 0.682            | -              |
@@ -44,6 +45,7 @@ It gives one possible counter-argument using as information the claim, the falla
 | roberta-base²| 0.938        | 0.774               | 0.800            | 0.787            | -              |
 | distilroberta-base²| 0.926  | 0.701               | 0.786            | 0.741            | -              |
 | xlm-roberta-base² | 0.938     | 0.778               | 0.837            | 0.806            | -              |
+|-----------------------|---------|--------|---------|----------|--------|
 | T5³ | -                | -                   | -                | -                | 0.654           |
 
 
